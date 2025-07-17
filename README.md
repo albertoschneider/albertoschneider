@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Alberto Schneider e esse é meu perfil!
 
-![Alberto Schneider's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoschneider&show_icons=true&theme=white)
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoschneider&show_icons=true&bg_color=#ffffff)
 
 [![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoschneider)](https://github.com/albertoschneider/github-readme-stats)
 
